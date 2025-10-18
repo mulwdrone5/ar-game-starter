@@ -1,0 +1,2 @@
+# Daily Notes
+Update CDN rules to ensure proper cache invalidation on deploy
